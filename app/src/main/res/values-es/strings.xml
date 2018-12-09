@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tap \'n\' Turn</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="notification_service_active">¡Tap \'n\' Turn está activado y ejecutándose!</string>
+    <string name="notification_service_not_active">¡Tap \'n\' Turn se está ejecutando pero desactivado!</string>
+    <string name="toast_service_stopped">Servicio de Tap \'n\' Turn parado</string>
+    <string name="toast_service_started">Servicio de Tap \'n\' Turn iniciado</string>
+    <string name="touch_to_disable">Toca para desactivar</string>
+    <string name="touch_to_enable">Toca para activar</string>
+    <string name="service_running">Servicio de Tap \'n\' Turn ejecutándose</string>
+    <string name="request_permission">Pedido de permisos</string>
+    <string name="permission_granted">Permiso concedido</string>
+    <string name="permission_missing">¡Faltan permisos, no se puede iniciar el servicio!</string>
+    <string name="use_reverse_portrait_label">Usar retrato inverso</string>
+    <string name="start_on_boot_label">Iniciar automáticamente en el arranque</string>
+    <string name="left_handed_mode">Modo mano izquierda</string>
+    <string name="introduction">Tap \'n\' Turn debe ejecutarse con la autorotación habilitada. Forzará al usuario a seleccionar la orientación dibujando una superposición invisible sobre la pantalla. Es por esto que necesita ese permiso. Puedes activar/desactivar temporalmente la superposición tocando en la notificación.</string>
+    <string name="introduction_title">Introducción</string>
+    <string name="configuration_title">Configuración</string>
+    <string name="service_setup_title">Configuración del servicio</string>
+    <string name="icon_size">Tamaño del ícono</string>
+    <string name="icon_timeout">Tiempo de espera del ícono</string>
+    <string name="restore_default_orientation_screen_off_label" >Restaurar orientación por defecto con la pantalla apagada</string>
+    <string name="permission_lost">Tap \'n\' Turn deshabilitado: ¡falta el permiso para mostrar sobre las aplicaciones!</string>
+    <string name="auto_return_default">Volver a la orientación por defecto automáticamente</string>
+    <string name="about_text">&lt;h1&gt;Tap\'n\'Turn v%1$s&lt;/h1&gt; &lt;h4&gt;Una pequeña y práctica utilidad para la orientación de pantalla.&lt;/h4&gt;  &lt;p&gt;Gracias por usarla  &lt;a href=\"https://gabm.github.io/TapAndTurn\"&gt;Tap\'n\'Turn!&lt;/a&gt; Esta aplicación ed un proyecto de la comunidad y fue creada originalmente por Matthias Gabriel.&lt;/p&gt;  &lt;p&gt;Si quieres participar del desarrollo de Tap\'n\'Turn subiendo código, arte, traducciones o reportando errores, entonces utiliza nuestra página del proyecto en&lt;a href=\"https://github.com/gabm/TapAndTurn\"&gt;GitHub&lt;/a&gt;. Además tenemos un canal de &lt;a href=\"https://riot.im\"&gt;riot.im&lt;/a&gt; llamado #TapAndTurn:matrix.org abierto para discusiones.&lt;/p&gt;  &lt;h2&gt;Licencia&lt;/h2&gt; &lt;p&gt;El código fuente de Tap\'n\'Turn es lanzado al dominio público bajo los términos de la &lt;a href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\"&gt;GPLv3&lt;/a&gt; o posteriores.&lt;/p&gt;  &lt;p&gt;La marca registrada \"Tap\'n\'Turn\" e identificadores similares como \"TapAndTurn\", \"Tap And Turn\" son propiedad de Matthias Gabriel. Todos los derechos reservados. La escritura preferida es \"Tap\'n\'Turn\". Estas marcas registradas son usadas para referirse al código fuente, los binarios publicados, así como a la comunidad (en adelante: \"El Proyecto\"). Tienes permiso para usar estas marcas registradas para referirte al proyecto en discusiones, documentación y publicaciones escritas. No puedes usarlas en la publicación de binarios sin permiso del autor original. Si quieres distribuir trabajos derivados debes utilizar otro nombre.&lt;/p&gt;  &lt;h2&gt;Librerias&lt;/h2&gt;  &lt;p&gt;\"Tap\'n\'Turn\" hace un gran uso de la librería &lt;a href=\"https://github.com/jaredrummler/ColorPicker\"&gt;Color Picker&lt;/a&gt;, que es desarrollada y publicada por Jared Rummler y sus contribuidores. Además TnT utiliza &lt;a href=\"https://github.com/MrBIMC/MaterialSeekBarPreference\"&gt;MaterialSeekBarPreference&lt;/a&gt; por Pavel Sikun y los contribuidores. Ambas librerías son publicadas bajo la Licencia Apache 2.0.  &lt;h2&gt;Contacto&lt;/h2&gt; Puedes contactarme por correo electrónico gabmtuc &lt;at&gt; gmail &lt;dot&gt; com o en &lt;a href=\"https://riot.im\"&gt;riot.im&lt;/a&gt; como @gabm:matrix.org.</string>
+    <string name="logging">Habilitar registro de depuración</string>
+</resources>
